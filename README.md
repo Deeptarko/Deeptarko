@@ -23,7 +23,7 @@ I'm a Delhi-based software developer with a strong foundation in Java programmin
 - SQL & Database Design
 - Unit Testing (JUnit, TestNG)
 - Design Patterns
-- [Any other relevant skills]
+
 
 ## Projects
 
